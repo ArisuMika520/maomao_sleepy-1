@@ -12,23 +12,11 @@
 
 ### TODO
 
-- [x] **拆分 `config.json` (只读) 和 `data.json`** (https://github.com/wyf9/sleepy/issues/3)
-- [x] 网页使用 api 请求，并实现定时刷新
-- [x] 设备使用状态
 - [x] Windows 客户端 (Python)
-- [ ] Android 客户端 ([Autox.js](http://doc.autoxjs.com/))
-- [ ] Metrics API (统计页面访问 / 接口调用次数)
-- [ ] 设备状态尝试 Websocket (=↓)
-- [ ] 设备状态 Heartbeat 机制
-- [ ] 更多状态存储选项 (如 SQLite)
+- [ ] Android 客户端
+- [ ] 多设备调用
+- [ ] 页面丰富/跳转
 
-> [!TIP]
-> 因上学原因, 可能放缓更新 <br/>
-> **最新开发进度/ TODOs 见: [Discord Server](https://discord.gg/DyBY6gwkeg)** <br/>
-> 如有 Bug / 建议, 可 [issue](https://github.com/wyf9/sleepy/issues/new) 或 [More contact](https://wyf9.top/#/contact) *(注明来意)*.
-> 下次更新要等明年啦~ <br/>
-
-<!-- > 正在加急更新中 (请看 [dev-2024-12-2](https://github.com/wyf9/sleepy/tree/dev-2024-12-2) 分支) <br/> -->
 
 ### Preview
 

@@ -12,8 +12,8 @@ import json
 global server
 
 # 密钥
-SECRET = 'YourSecretCannotGuess'
-SERVER = 'https://example.com'
+SECRET = ''
+SERVER = 'http://152.32.188.131:9010'
 # (弃用) 服务器列表, 末尾不加 `/`
 # SERVER_LIST = [
 #     'https://example.com',
@@ -87,7 +87,7 @@ def main():
         print(f'{n["id"]} - {n["name"]} - {n["desc"]}')
 
     st = input('\n> ')
-    ret = loadjson(f'{SERVER}/set/{SECRET}/{st}')
+    ret = loadjson(f'{SERVER}/set?secret={SECRET}&status={st}')
     try:
         print(f'success: [{ret["success"]}], code: [{ret["code"]}], set_to: [{ret["set_to"]}]')
     except:

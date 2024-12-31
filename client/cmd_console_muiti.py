@@ -12,10 +12,10 @@ import json
 global server
 
 # 密钥
-SECRET = '11451419-1981-0114-5141-919810114514'
+SECRET = ''
 # 服务列表, 末尾不加 `/`
-SERVER_LIST = ['https://sleepy.wyf9.top',
-               'http://114.51.41.91:9010',
+SERVER_LIST = [
+               'http://152.32.188.131:9010',
                'http://127.0.0.1:9010']
 # 请求重试次数
 RETRY = 3

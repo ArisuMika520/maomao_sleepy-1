@@ -20,9 +20,11 @@
 
 ### Preview
 
-演示站 (稳定): [sleepy.wyf9.top](https://sleepy.wyf9.top)
+个人演示站: [www.arisumika.cloud](http://www.arisumika.cloud:9010/)
 
-开发预览 (*不保证可用*, 密钥 `wyf9test`): [sleepy-preview.wyf9.top](https://sleepy-preview.wyf9.top)
+原作者[@wyf9](https://github.com/wyf9)演示站 (稳定): [sleepy.wyf9.top](https://sleepy.wyf9.top)
+
+原作者[@wyf9](https://github.com/wyf9)开发预览 (*不保证可用*, 密钥 `wyf9test`): [sleepy-preview.wyf9.top](https://sleepy-preview.wyf9.top)
 
 ## 部署
 
@@ -76,7 +78,9 @@ python3 start.py
 
 ## 关于
 
-本项目灵感由 Bilibili UP [@WinMEMZ](https://space.bilibili.com/417031122) 而来: [site](https://maao.cc/sleepy/) / [blog](https://www.maodream.com/archives/192/), 并~~部分借鉴~~使用了前端代码, 在此十分感谢。
+本项目由[@wyf9](https://github.com/wyf9) 基于灵感来源 Bilibili UP [@WinMEMZ](https://space.bilibili.com/417031122) 而来: [site](https://maao.cc/sleepy/) / [blog](https://www.maodream.com/archives/192/), 并~~部分借鉴~~使用了前端代码, 在此十分感谢。
+
+感谢 [@wyf9](https://github.com/wyf9) 的 源代码提供基本功能框架 [site](https://github.com/wyf9/sleepy)
 
 感谢 [@1812z](https://github.com/1812z) 的 B 站视频推广~ ([BV1LjB9YjEi3](https://www.bilibili.com/video/BV1LjB9YjEi3))
 

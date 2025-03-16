@@ -19,7 +19,7 @@
 
 ### Preview
 
-个人演示站: [www.arisumika.cloud](http://www.arisumika.cloud:9010/)
+个人演示站（不稳定）: [www.arisumika.cloud](http://www.arisumika.cloud:9010/)
 
 原作者[@wyf9](https://github.com/wyf9)演示站 (稳定): [sleepy.wyf9.top](https://sleepy.wyf9.top)
 

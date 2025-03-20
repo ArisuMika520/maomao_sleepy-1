@@ -78,8 +78,9 @@ python3 start.py
 详细的 API 文档见 [doc/api.md](./doc/api.md).
 
 ## 关于
+本项目大部分代码为自行更改完善，基础框架代码来自[原项目](https://github.com/wyf9/sleepy)
 
-本项目由[@wyf9](https://github.com/wyf9) 基于灵感来源 Bilibili UP [@WinMEMZ](https://space.bilibili.com/417031122) 而来: [site](https://maao.cc/sleepy/) / [blog](https://www.maodream.com/archives/192/), 并~~部分借鉴~~使用了前端代码, 在此十分感谢。
+原项目由[@wyf9](https://github.com/wyf9) 基于灵感来源 Bilibili UP [@WinMEMZ](https://space.bilibili.com/417031122) 而来: [site](https://maao.cc/sleepy/) / [blog](https://www.maodream.com/archives/192/), 并~~部分借鉴~~使用了前端代码, 在此十分感谢。
 
 感谢 [@wyf9](https://github.com/wyf9) 的 源代码提供基本功能框架 [site](https://github.com/wyf9/sleepy)
 
